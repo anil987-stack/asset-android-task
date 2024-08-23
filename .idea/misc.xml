@@ -1,0 +1,224 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Projects/self-dream-mlm-android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1305" />
+        <entry key="..\:/Android Projects/self-dream-mlm-android/app/src/main/res/drawable/downlines_icon.xml" value="0.1305" />
+        <entry key="..\:/Android Projects/self-dream-mlm-android/app/src/main/res/drawable/footer_refferal.xml" value="0.128" />
+        <entry key="..\:/Android Projects/self-dream-mlm-android/app/src/main/res/drawable/home_icon.xml" value="0.1305" />
+        <entry key="..\:/Android Projects/self-dream-mlm-android/app/src/main/res/drawable/ic_back.xml" value="0.1305" />
+        <entry key="..\:/Android Projects/self-dream-mlm-android/app/src/main/res/drawable/ic_circle_active.xml" value="0.128" />
+        <entry key="..\:/Android Projects/self-dream-mlm-android/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1305" />
+        <entry key="..\:/Android Projects/self-dream-mlm-android/app/src/main/res/drawable/tab_bg.xml" value="0.128" />
+        <entry key="..\:/Android Projects/self-dream-mlm-android/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Android Projects/self-dream-mlm-android/app/src/main/res/layout/fragment_bank_details.xml" value="0.33" />
+        <entry key="..\:/Android Projects/self-dream-mlm-android/app/src/main/res/layout/fragment_change_password.xml" value="0.184375" />
+        <entry key="..\:/Android Projects/self-dream-mlm-android/app/src/main/res/layout/fragment_contact_us.xml" value="0.184375" />
+        <entry key="..\:/Android Projects/self-dream-mlm-android/app/src/main/res/layout/fragment_down_line.xml" value="0.184375" />
+        <entry key="..\:/Android Projects/self-dream-mlm-android/app/src/main/res/layout/fragment_dream_bike.xml" value="0.1" />
+        <entry key="..\:/Android Projects/self-dream-mlm-android/app/src/main/res/layout/fragment_edit_profile.xml" value="0.1" />
+        <entry key="..\:/Android Projects/self-dream-mlm-android/app/src/main/res/layout/fragment_faq.xml" value="0.184375" />
+        <entry key="..\:/Android Projects/self-dream-mlm-android/app/src/main/res/layout/fragment_home.xml" value="0.184375" />
+        <entry key="..\:/Android Projects/self-dream-mlm-android/app/src/main/res/layout/fragment_main.xml" value="0.184375" />
+        <entry key="..\:/Android Projects/self-dream-mlm-android/app/src/main/res/layout/fragment_otp.xml" value="0.33" />
+        <entry key="..\:/Android Projects/self-dream-mlm-android/app/src/main/res/layout/fragment_profile.xml" value="0.22" />
+        <entry key="..\:/Android Projects/self-dream-mlm-android/app/src/main/res/layout/fragment_register.xml" value="0.25" />
+        <entry key="..\:/Android Projects/self-dream-mlm-android/app/src/main/res/layout/items_downline_details.xml" value="0.25" />
+        <entry key="..\:/Android Projects/self-dream-mlm-android/app/src/main/res/layout/layout_downline.xml" value="0.184375" />
+        <entry key="..\:/Android Projects/self-dream-mlm-android/app/src/main/res/layout/layout_faq.xml" value="0.184375" />
+        <entry key="..\:/Android Projects/self-dream-mlm-android/app/src/main/res/layout/layout_home_recycler.xml" value="0.184375" />
+        <entry key="..\:/Android Projects/self-dream-mlm-android/app/src/main/res/layout/layout_main_slider.xml" value="0.184375" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/aadhar_icon.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/apply_loan.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/attachment_icon.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/back_arrow_icon.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/bg_10_stroke_color_accent.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/bg_5.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/bg_circle_non_active.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/bg_circle_stroke.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/bg_dash_10.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/bg_gradient_btn.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/bg_input_edit_text.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/bg_splash.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/bg_top_corners.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/bike_icon.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/change_password_icon.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/cibil_yellow_icon.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/credit_card.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/decorator.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/down_arrow_icon.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/earnings_icon.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/email_icon.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/eye_not_visible.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/faq_icon.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/footer_bike.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/footer_contactus.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/footer_home.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/footer_refferal.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/home_icon.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/ic_aadhar_icon.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/ic_circle.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/ic_circle_active.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/ic_eye.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/ic_share.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/location_icon.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/logout_icon.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/menu_icon.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/offer_icon.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/pan_icon.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/password_icon.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/phone_icon.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/privacy_icon.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/profile_home_icon.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/rate_us_icon.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/refer_earn_bg.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/refer_earn_image.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/refer_friend_icon.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/referral_icon.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/selected_menu.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/selected_menu_item.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/tab_bg.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/terms_condition_icon.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/upload_camera_icon.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/drawable/upload_icon.xml" value="0.25885416666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/layout/activity_plain.xml" value="0.24270833333333333" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/layout/activity_plain_v2.xml" value="0.128" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/layout/activity_splash.xml" value="0.264" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/layout/custom_menu_layout.xml" value="0.264" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/layout/fragment_bank_details.xml" value="0.4" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/layout/fragment_change_password.xml" value="0.22916666666666666" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/layout/fragment_cms.xml" value="0.24270833333333333" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/layout/fragment_confirmation.xml" value="0.24270833333333333" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/layout/fragment_confirmation_dialog.xml" value="0.2275390625" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/layout/fragment_contact_us.xml" value="0.264" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/layout/fragment_demo_video_dialog.xml" value="0.24270833333333333" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/layout/fragment_down_line.xml" value="0.264" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/layout/fragment_dream_bike.xml" value="0.264" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/layout/fragment_earnings.xml" value="0.4" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/layout/fragment_edit_profile.xml" value="0.24270833333333333" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/layout/fragment_faq.xml" value="0.24270833333333333" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/layout/fragment_forgot_password.xml" value="0.2" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/layout/fragment_forgot_pwd.xml" value="0.1" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/layout/fragment_home.xml" value="0.2949640287769784" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/layout/fragment_main.xml" value="0.264" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/layout/fragment_otp.xml" value="0.176" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/layout/fragment_otp_verified_dialog.xml" value="0.24270833333333333" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/layout/fragment_profile.xml" value="0.23669724770642203" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/layout/fragment_refer_friend.xml" value="0.24270833333333333" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/layout/fragment_register.xml" value="0.2" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/layout/items_downline_details.xml" value="0.24270833333333333" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/layout/layout_bottom_navigation.xml" value="0.72" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/layout/layout_downline.xml" value="0.4" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/layout/layout_faq.xml" value="0.4" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/layout/layout_home_recycler.xml" value="0.24270833333333333" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/layout/layout_main_slider.xml" value="0.24270833333333333" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/layout/layout_reward_details.xml" value="0.24270833333333333" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/layout/main_content_layout.xml" value="0.2" />
+        <entry key="..\:/Indu_Projects/self_dream_android/app/src/main/res/menu/bottom_navigation.xml" value="0.12239583333333333" />
+        <entry key="..\:/Vaamsi Dev/prototype-android-kotlin/app/src/main/res/layout/activity_full_plain.xml" value="0.13020833333333334" />
+        <entry key="..\:/Vaamsi Dev/prototype-android-kotlin/app/src/main/res/layout/activity_main.xml" value="0.13020833333333334" />
+        <entry key="..\:/Vaamsi Dev/prototype-android-kotlin/app/src/main/res/layout/activity_plain.xml" value="0.13020833333333334" />
+        <entry key="..\:/Vaamsi Dev/prototype-android-kotlin/app/src/main/res/layout/activity_plain_v2.xml" value="0.13020833333333334" />
+        <entry key="..\:/Vaamsi Dev/prototype-android-kotlin/app/src/main/res/layout/activity_splash.xml" value="0.13020833333333334" />
+        <entry key="..\:/Vaamsi Dev/prototype-android-kotlin/app/src/main/res/layout/fragment_forgot_pwd.xml" value="0.13020833333333334" />
+        <entry key="..\:/Vaamsi Dev/prototype-android-kotlin/app/src/main/res/layout/fragment_login.xml" value="0.13020833333333334" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1065" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/drawable/apply_loan.xml" value="0.1475" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/drawable/bg_25.xml" value="0.161" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/drawable/bg_5.xml" value="0.1135" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/drawable/bg_circle_non_active.xml" value="0.161" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/drawable/bg_circle_stroke.xml" value="0.161" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/drawable/bg_dash_10.xml" value="0.161" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/drawable/bg_gradient_btn.xml" value="0.1475" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/drawable/bg_input_edit_text.xml" value="0.1475" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/drawable/bg_input_golden.xml" value="0.1475" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/drawable/bg_input_green.xml" value="0.1475" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/drawable/bg_top_corners.xml" value="0.161" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/drawable/cibil_score.xml" value="0.1125" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/drawable/downlines_icon.xml" value="0.1135" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/drawable/edit_icon.xml" value="0.161" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/drawable/footer_bike.xml" value="0.1245" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/drawable/footer_home.xml" value="0.1245" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/drawable/footer_refferal.xml" value="0.1245" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/drawable/home_icon.xml" value="0.1475" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/drawable/ic_back.xml" value="0.161" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/drawable/ic_call_24.xml" value="0.1475" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/drawable/ic_copy.xml" value="0.1" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/drawable/ic_email_24.xml" value="0.118" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1065" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/drawable/ic_levels.xml" value="0.161" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/drawable/ic_radio_button_checked.xml" value="0.161" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/drawable/levels_ic.xml" value="0.161" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/drawable/logout_icon.xml" value="0.1475" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/drawable/phone_icon.xml" value="0.1475" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/drawable/privacy_icon.xml" value="0.1435" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/drawable/refer_earn_image_bg.xml" value="0.1475" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/drawable/self_cash_pay_logo_white.xml" value="0.1475" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/drawable/splash_circle_stroke.xml" value="0.1475" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/drawable/ticket_refern_earn.xml" value="0.1475" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/layout/activity_full_plain.xml" value="0.20416666666666666" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/layout/activity_plain.xml" value="0.20416666666666666" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/layout/activity_plain_v2.xml" value="0.20416666666666666" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/layout/activity_splash.xml" value="0.2" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/layout/custom_menu_layout.xml" value="0.33" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/layout/fragment_bank_details.xml" value="0.20416666666666666" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/layout/fragment_cancellation_policy.xml" value="0.203125" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/layout/fragment_cms.xml" value="0.20416666666666666" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/layout/fragment_confirmation_dialog.xml" value="0.159375" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/layout/fragment_contact_us.xml" value="0.33" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/layout/fragment_demo_video_dialog.xml" value="0.20416666666666666" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/layout/fragment_deposit.xml" value="0.33" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/layout/fragment_down_line.xml" value="0.1675925925925926" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/layout/fragment_dream_bike.xml" value="0.20416666666666666" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/layout/fragment_earnings.xml" value="0.21" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/layout/fragment_edit_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/layout/fragment_faq.xml" value="0.20416666666666666" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/layout/fragment_forgot_password.xml" value="0.16018518518518518" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/layout/fragment_main.xml" value="0.25" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/layout/fragment_my_account.xml" value="0.25" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/layout/fragment_otp.xml" value="0.20416666666666666" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/layout/fragment_otp_verified_dialog.xml" value="0.20416666666666666" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/layout/fragment_payout.xml" value="0.2" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/layout/fragment_privacy_policy.xml" value="0.203125" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/layout/fragment_refer_friend.xml" value="0.18" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/layout/fragment_register.xml" value="0.28160919540229884" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/layout/items_downline_details.xml" value="0.20416666666666666" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/layout/layout_bottom_navigation.xml" value="0.20416666666666666" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/layout/layout_downline.xml" value="0.20416666666666666" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/layout/layout_earnings.xml" value="0.46111111111111114" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/layout/layout_faq.xml" value="0.20416666666666666" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/layout/layout_home_recycler.xml" value="0.20416666666666666" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/layout/layout_levels_completed.xml" value="0.33" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/layout/layout_levels_incompleted.xml" value="0.3817427385892116" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/layout/layout_main_slider.xml" value="0.20416666666666666" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/layout/layout_payout_history.xml" value="0.33" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/layout/layout_total_members.xml" value="0.3351851851851852" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/layout/main_content_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/layout/refund_policy_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/layout/withdraw_dialog_fragment.xml" value="0.22" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/menu/bottom_navigation.xml" value="0.20102564102564102" />
+        <entry key="..\:/self-dream-mlm-android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1065" />
+        <entry key="app/src/main/res/drawable/ic_back.xml" value="0.2851851851851852" />
+        <entry key="app/src/main/res/layout/activity_full_plain.xml" value="0.18478260869565216" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.18478260869565216" />
+        <entry key="app/src/main/res/layout/activity_plain.xml" value="0.18478260869565216" />
+        <entry key="app/src/main/res/layout/activity_plain_nested.xml" value="0.18478260869565216" />
+        <entry key="app/src/main/res/layout/activity_plain_v2.xml" value="0.17028985507246377" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.21105072463768115" />
+        <entry key="app/src/main/res/layout/fragment_forgot_pwd.xml" value="0.17028985507246377" />
+        <entry key="app/src/main/res/layout/fragment_login.xml" value="0.17028985507246377" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

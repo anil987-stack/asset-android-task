@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="faq-icon" transform="translate(-3502 -1267)">
+    <rect id="Rectangle_7177" data-name="Rectangle 7177" width="40" height="40" transform="translate(3502 1267)" fill="#fff" opacity="0"/>
+    <g id="help_icon" transform="translate(3508 1273)">
+      <g id="Group_14800" data-name="Group 14800">
+        <g id="Group_14799" data-name="Group 14799">
+          <circle id="Ellipse_468" data-name="Ellipse 468" cx="1.327" cy="1.327" r="1.327" transform="translate(12.265 18.769)" fill="#dcc268"/>
+          <path id="Path_36922" data-name="Path 36922" d="M13.592,0A13.592,13.592,0,1,0,27.184,13.592,13.585,13.585,0,0,0,13.592,0Zm0,25.061A11.468,11.468,0,1,1,25.061,13.592,11.462,11.462,0,0,1,13.592,25.061Z" fill="#dcc268"/>
+          <path id="Path_36923" data-name="Path 36923" d="M180.248,128.5A4.252,4.252,0,0,0,176,132.748a1.062,1.062,0,0,0,2.124,0,2.124,2.124,0,1,1,2.124,2.124,1.062,1.062,0,0,0-1.062,1.062v2.655a1.062,1.062,0,1,0,2.124,0v-1.727a4.248,4.248,0,0,0-1.062-8.361Z" transform="translate(-166.655 -121.677)" fill="#dcc268"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

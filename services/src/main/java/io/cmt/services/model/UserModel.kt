@@ -1,0 +1,43 @@
+package io.cmt.services.model
+
+import android.net.Uri
+import java.io.Serializable
+
+data class UserModel(
+    var id: String? = null,
+    var access_token: String? = null,
+    var user_name: String? = null,
+    var name: String? = null,
+    var email: String? = null,
+    var message: String? = null,
+    var mobile: String? = null,
+    var password: String? = null,
+    var payment_status: String? = null,
+    var old_password: String? = null,
+    var aadhar_no: String? = null,
+    var aadhar_num: String? = null,
+    var pan_num: String? = null,
+    var image: String? = null,
+    var referral_code: String? = null,
+    var aadhar_front_image: Uri? = null,
+    var aadhar_back_image: Uri? = null,
+    var pan_no: Uri? = null,
+    var pan_image: Uri? = null,
+    var profile_image: Uri? = null,
+    var refferal_code: Uri? = null,
+    var pan_card: Uri? = null,
+    var bike_quatation: Uri? = null,
+    var user_profile_image: Uri? = null,
+    var city: String? = null,
+    var district: String? = null,
+    var state: String? = null,
+    var country: String? = null,
+    var bike_company_name: String? = null,
+    var upload_quatation: String? = null,
+    var user_id: String? = null,
+    var aadharFrontImageName: String? = null,
+    var aadharBackImageName: String? = null,
+    var panImageName: String? = null,
+    var userProfileImageName: String? = null,
+    var checkBox: Boolean? = null,
+) : Serializable
