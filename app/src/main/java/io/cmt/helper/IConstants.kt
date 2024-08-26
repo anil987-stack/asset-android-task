@@ -1,7 +1,7 @@
 package io.cmt.helper
 
-import io.cmt.services.model.BankDetailsModel
-import io.cmt.services.model.UserModel
+
+
 
 interface IConstants {
     object IntentStrings {
@@ -19,18 +19,7 @@ interface IConstants {
         const val changePassword = "changePassword"
         const val main = "main"
         const val home = "home"
-        const val bank_details = "bank_details"
-        const val faq = "faq"
-        const val deposit = "deposit"
-        const val params = "params"
-        const val privacyPolicy = "privacyPolicy"
-        const val termsConditions = "termsConditions"
-        const val refundPolicy = "refundPolicy"
-        const val cancellationPolicy = "cancellationPolicy"
-        const val dream_bike = "dream_bike"
-        const val contactUs = "contactUs"
-        const val editProfile = "editProfile"
-        const val withdraw = "withdraw"
+
     }
 
     object Defaults {
@@ -108,12 +97,7 @@ interface IConstants {
 
     }
 
-    object ValueHolder {
-        var userData: UserModel? = null
-        var userBankModel: BankDetailsModel? = null
-        var aadharFrontImage: String? = null
 
-    }
 
     enum class ObserverEvents {
         OPEN_MENU, OPEN_MAIN_ACTIVITY, OPEN_LOGIN_SCREEN, OPEN_FORGOT_PWD_SCREEN, START_LOADER, STOP_LOADER

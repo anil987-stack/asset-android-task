@@ -1,10 +1,10 @@
 package io.cmt.app
 
 import android.app.Application
-import io.cmt.services.model.UserModel
+
 
 class   AppController : Application() {
-    var userModel: UserModel? = null
+
 
     override fun onCreate() {
         super.onCreate()

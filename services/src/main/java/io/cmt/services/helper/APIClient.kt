@@ -39,7 +39,7 @@ class APIClient {
             addInterceptor(
                 Interceptor { chain ->
                     val builder = chain.request().newBuilder()
-                    if (bearer != null && bearer.isNotEmpty()) {
+                    if (!bearer.isNullOrEmpty()) {
                         builder.header("Authorization", "Bearer $bearer")
                     }
                     return@Interceptor chain.proceed(builder.build())

@@ -2,12 +2,12 @@
 <resources>
     <color name="colorPrimary">#FFFFFF</color>
     <color name="colorPrimaryDark">#000000</color>
-    <color name="colorAccent">#DAC167</color>
+    <color name="colorAccent">#e7293e</color>
     <color name="red">#fe0001</color>
     <color name="green">#009c25</color>
 
     <color name="colorText">#000000</color>
-    <color name="colorDark">#BC9B43</color>
+    <color name="colorDark">#e7293e</color>
     <color name="colorCardBg">#232323</color>
     <color name="colorBottomMenuItem">#818181</color>
     <color name="colorNormalText">#7D7D7D</color>

@@ -9,9 +9,6 @@ import android.view.View
 import android.view.animation.LinearInterpolator
 import io.cmt.R
 import io.cmt.helper.IConstants
-import io.cmt.services.apis.Authentication
-import io.cmt.services.helper.APIResponse
-import io.cmt.services.helper.RetroFitCallBack
 import io.cmt.view.activity.MainActivity
 import io.cmt.view.activity.SplashActivity
 import io.cmt.viewModel.BaseViewModel
@@ -38,7 +35,7 @@ class SplashVM : BaseViewModel() {
             }
 
             override fun onAnimationEnd(animation: Animator) {
-                TODO("Not yet implemented")
+
                 openHomeScreenAfterLogin(view.context)
             }
 
