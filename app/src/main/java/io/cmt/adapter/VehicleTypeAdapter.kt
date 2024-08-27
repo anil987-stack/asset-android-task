@@ -26,13 +26,9 @@ class VehicleTypeAdapter : RecyclerView.Adapter<VehicleTypeAdapter.ViewHolder>()
         notifyDataSetChanged()
     }
 
-    class ViewHolder(private val binding: ItemVehicleTypeBinding) :
-        RecyclerView.ViewHolder(binding.root) {
+    class ViewHolder(private val binding: ItemVehicleTypeBinding) : RecyclerView.ViewHolder(binding.root) {
         fun bind(vehicleType: VehicleType) {
-
-
             binding.vehicleName.text = vehicleType.text
         }
-
     }
 }

@@ -9,7 +9,9 @@ import android.content.Intent
 import android.os.Bundle
 import android.text.Editable
 import android.text.TextWatcher
+import android.util.Log
 import android.view.KeyEvent
+import android.view.View
 import android.widget.ArrayAdapter
 import android.widget.Toast
 import androidx.activity.result.contract.ActivityResultContracts
@@ -90,6 +92,10 @@ class MainActivity : BaseActivity() {
         binding.btnMoreLess.setOnClickListener {
             viewModel.toggleExpandCollapse()
         }
+        binding.more.setOnClickListener {
+            viewModel.toggleExpandCollapse()
+        }
+
         val items = listOf("Grand Vitara", "Ertiga", "Dezire", "Baleno", "Alto")
         val adapter = ArrayAdapter(
             this,
@@ -108,6 +114,12 @@ class MainActivity : BaseActivity() {
         adapter.setDropDownViewResource(R.layout.simple_spinner_dropdown_item)
         binding.driver.adapter = adapters
 
+        viewModel.buttonImage.observe(this) { imageResId ->
+            binding.more.setImageResource(imageResId)
+        }
+        viewModel.showLoader.observe(this) { show ->
+            binding.progressBar.visibility = if (show) View.VISIBLE else View.GONE
+        }
 
         setupRecyclerView()
         observeViewModel()
@@ -118,11 +130,9 @@ class MainActivity : BaseActivity() {
 
     private fun setupRecyclerView() {
         adapter = VehicleTypeAdapter()
-        binding.recyclerVehicleTypes.layoutManager =
-            GridLayoutManager(this, 3)
+        binding.recyclerVehicleTypes.layoutManager = GridLayoutManager(this, 3)
         binding.recyclerVehicleTypes.adapter = adapter
     }
-
     private fun observeViewModel() {
         viewModel.vehicleTypes.observe(this) { vehicleTypes ->
             adapter.submitList(vehicleTypes)
@@ -132,6 +142,7 @@ class MainActivity : BaseActivity() {
             binding.btnMoreLess.text = text
         }
     }
+
 
     private fun initOtpTextWatchers() {
         val otpTextWatchers = arrayOf(
